@@ -2874,12 +2874,17 @@ textarea.cdk-textarea-autosize-measuring-firefox {
   background-color: #ff5722;
 }
 
-.light-theme #indaco-title {
+.light-theme #volkan-title {
   background-color: #260041;
 }
 
 .light-theme #footer {
   background-color: #260041;
+}
+
+.light-theme #sidenav {
+  background-color: #002b5c;
+  color: white;
 }
 
 .dark-theme .mat-ripple-element {
@@ -4967,10 +4972,6 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 ************************/
 
 /* You can add global styles to this file, and also import other style files */
-
-html, body {
-  height: 100%;
-}
 
 body {
   margin: 0;
