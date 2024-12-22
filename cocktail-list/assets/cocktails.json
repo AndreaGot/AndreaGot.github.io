@@ -1,16 +1,404 @@
 [
   {
     "name": "Mojito",
-    "categories": ["Classic", "Refreshing"],
-    "ingredients": ["50ml White Rum", "10 Mint Leaves", "2 tsp Sugar", "Soda Water", "Lime"],
+    "categories": [
+      "Classic",
+      "Refreshing"
+    ],
+    "ingredients": [
+      "50ml White Rum",
+      "10 Mint Leaves",
+      "2 tsp Sugar",
+      "Soda Water",
+      "Lime"
+    ],
     "procedure": "Muddle mint leaves with sugar and lime juice. Add rum and soda water. Stir gently and serve over ice.",
     "image": "assets/images/mojito.jpg"
   },
   {
     "name": "Martini",
-    "categories": ["Classic", "Elegant"],
-    "ingredients": ["60ml Gin", "1 tbsp Dry Vermouth", "Olive or Lemon Twist"],
+    "categories": [
+      "Classic",
+      "Elegant"
+    ],
+    "ingredients": [
+      "60ml Gin",
+      "1 tbsp Dry Vermouth",
+      "Olive or Lemon Twist"
+    ],
     "procedure": "Stir gin and vermouth with ice, strain into a chilled glass, garnish with an olive or lemon twist.",
     "image": "assets/images/martini.jpg"
+  },
+  {
+    "name": "Bahama Mama",
+    "categories": [
+      "Leggeri"
+    ],
+    "ingredients": [
+      "30ml Rum scuro",
+      "30ml Rum chiaro",
+      "20ml Succo d'ananas",
+      "20ml Succo d'arancia",
+      "10ml Granatina"
+    ],
+    "procedure": "Shakerare tutti gli ingredienti con ghiaccio, versare in un bicchiere alto e decorare con una fetta di ananas e una ciliegia.",
+    "image": "assets/images/bahama_mama.png"
+  },
+  {
+    "name": "Bee's Knees",
+    "categories": [
+      "Medi",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "50ml Gin",
+      "25ml Succo di limone fresco",
+      "20ml Miele"
+    ],
+    "procedure": "Mescolare miele e succo di limone finché il miele si scioglie, quindi aggiungere il gin e shakerare con ghiaccio. Filtrare in un bicchiere da cocktail.",
+    "image": "assets/images/bees_knees.png"
+  },
+  {
+    "name": "Canchanchara",
+    "categories": [
+      "Medi"
+    ],
+    "ingredients": [
+      "50ml Rum cubano",
+      "20ml Miele",
+      "20ml Succo di lime",
+      "Acqua frizzante"
+    ],
+    "procedure": "Mescolare il miele con il succo di lime, aggiungere il rum e completare con acqua frizzante. Servire in un bicchiere con ghiaccio.",
+    "image": "assets/images/canchanchara.png"
+  },
+  {
+    "name": "Daiquiri",
+    "categories": [
+      "Medi",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "50ml Rum bianco",
+      "25ml Succo di lime fresco",
+      "10ml Sciroppo di zucchero"
+    ],
+    "procedure": "Shakerare tutti gli ingredienti con ghiaccio, quindi filtrare in una coppetta da cocktail raffreddata.",
+    "image": "assets/images/daiquiri.png"
+  },
+  {
+    "name": "Hugo",
+    "categories": [
+      "Leggeri"
+    ],
+    "ingredients": [
+      "150ml Prosecco",
+      "20ml Sciroppo di sambuco",
+      "Foglie di menta",
+      "Ghiaccio",
+      "Fetta di lime"
+    ],
+    "procedure": "Unire prosecco e sciroppo di sambuco in un bicchiere con ghiaccio, aggiungere menta e lime per decorare.",
+    "image": "assets/images/hugo.png"
+  },
+  {
+    "name": "Jungle Bird",
+    "categories": [
+      "Medi",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "50ml Rum scuro",
+      "25ml Succo d'ananas",
+      "15ml Campari",
+      "10ml Sciroppo di zucchero",
+      "10ml Succo di lime"
+    ],
+    "procedure": "Shakerare tutti gli ingredienti con ghiaccio e servire in un bicchiere basso con ghiaccio.",
+    "image": "assets/images/jungle_bird.png"
+  },
+  {
+    "name": "Long Island Iced Tea",
+    "categories": [
+      "Forti"
+    ],
+    "ingredients": [
+      "15ml Vodka",
+      "15ml Gin",
+      "15ml Rum bianco",
+      "15ml Triple Sec",
+      "15ml Succo di limone",
+      "Coca-Cola"
+    ],
+    "procedure": "Mescolare tutti gli ingredienti (eccetto la Coca-Cola) con ghiaccio, versare in un bicchiere alto e completare con Coca-Cola.",
+    "image": "assets/images/long_island_iced_tea.png"
+  },
+  {
+    "name": "Mai Tai",
+    "categories": [
+      "Forti",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "40ml Rum scuro",
+      "20ml Rum chiaro",
+      "15ml Orzata",
+      "10ml Triple Sec",
+      "10ml Succo di lime"
+    ],
+    "procedure": "Shakerare tutti gli ingredienti con ghiaccio e servire in un bicchiere con ghiaccio, decorando con lime e menta.",
+    "image": "assets/images/mai_tai.png"
+  },
+  {
+    "name": "Manhattan",
+    "categories": [
+      "Forti",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "50ml Rye Whiskey",
+      "20ml Vermouth rosso",
+      "2 gocce di Angostura"
+    ],
+    "procedure": "Mescolare delicatamente gli ingredienti con ghiaccio e filtrare in una coppetta da cocktail, decorando con una ciliegia.",
+    "image": "assets/images/manhattan.png"
+  },
+  {
+    "name": "Negroni",
+    "categories": [
+      "Forti",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "30ml Gin",
+      "30ml Campari",
+      "30ml Vermouth rosso"
+    ],
+    "procedure": "Mescolare gli ingredienti direttamente in un bicchiere con ghiaccio e decorare con una fetta d'arancia.",
+    "image": "assets/images/negroni.png"
+  },
+  {
+    "name": "Painkiller",
+    "categories": [
+      "Medi"
+    ],
+    "ingredients": [
+      "60ml Rum scuro",
+      "30ml Succo d'arancia",
+      "30ml Succo d'ananas",
+      "30ml Crema di cocco"
+    ],
+    "procedure": "Mescolare tutti gli ingredienti con ghiaccio, servire in un bicchiere e decorare con noce moscata grattugiata.",
+    "image": "assets/images/painkiller.png"
+  },
+  {
+    "name": "Paloma",
+    "categories": [
+      "Leggeri",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "50ml Tequila",
+      "100ml Succo di pompelmo",
+      "15ml Succo di lime",
+      "Acqua frizzante",
+      "Sale"
+    ],
+    "procedure": "Mescolare gli ingredienti in un bicchiere con ghiaccio, aggiungendo il sale sul bordo del bicchiere.",
+    "image": "assets/images/paloma.png"
+  },
+  {
+    "name": "Paradise",
+    "categories": [
+      "Medi",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "35ml Gin",
+      "20ml Apricot Brandy",
+      "15ml Succo d'arancia"
+    ],
+    "procedure": "Shakerare gli ingredienti con ghiaccio e filtrare in una coppetta da cocktail.",
+    "image": "assets/images/paradise.png"
+  },
+  {
+    "name": "Pina Colada",
+    "categories": [
+      "Leggeri"
+    ],
+    "ingredients": [
+      "50ml Rum bianco",
+      "100ml Succo d'ananas",
+      "30ml Crema di cocco"
+    ],
+    "procedure": "Frullare tutti gli ingredienti con ghiaccio e servire in un bicchiere decorato con ananas e ciliegia.",
+    "image": "assets/images/pina_colada.png"
+  },
+  {
+    "name": "Planter's Punch",
+    "categories": [
+      "Medi",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "50ml Rum scuro",
+      "30ml Succo d'arancia",
+      "30ml Succo d'ananas",
+      "15ml Sciroppo di granatina"
+    ],
+    "procedure": "Shakerare gli ingredienti con ghiaccio e servire in un bicchiere con ghiaccio decorato con menta e lime.",
+    "image": "assets/images/planters_punch.png"
+  },
+  {
+    "name": "Sea Breeze",
+    "categories": [
+      "Leggeri"
+    ],
+    "ingredients": [
+      "50ml Vodka",
+      "100ml Succo di mirtillo",
+      "50ml Succo di pompelmo"
+    ],
+    "procedure": "Mescolare gli ingredienti in un bicchiere con ghiaccio e decorare con una fetta di lime.",
+    "image": "assets/images/sea_breeze.png"
+  },
+  {
+    "name": "Spritz",
+    "categories": [
+      "Leggeri"
+    ],
+    "ingredients": [
+      "90ml Prosecco",
+      "60ml Aperol",
+      "30ml Soda"
+    ],
+    "procedure": "Mescolare direttamente in un bicchiere con ghiaccio e decorare con una fetta d'arancia.",
+    "image": "assets/images/spritz.png"
+  },
+  {
+    "name": "White Russian",
+    "categories": [
+      "Medi"
+    ],
+    "ingredients": [
+      "50ml Vodka",
+      "20ml Liquore al caffè",
+      "30ml Panna"
+    ],
+    "procedure": "Versare gli ingredienti su ghiaccio in un bicchiere e mescolare delicatamente.",
+    "image": "assets/images/white_russian.png"
+  },
+  {
+    "name": "Gin Tonic",
+    "categories": [
+      "Leggeri",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "50ml Gin",
+      "100ml Acqua tonica",
+      "1 Fetta di limone",
+      "Ghiaccio"
+    ],
+    "procedure": "Riempire un bicchiere alto con ghiaccio, versare il gin e completare con acqua tonica. Decorare con una fetta di limone.",
+    "image": "assets/images/gin_tonic.png"
+  },
+  {
+    "name": "Americano",
+    "categories": [
+      "Medi",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "30ml Campari",
+      "30ml Vermouth rosso",
+      "Soda",
+      "1 Fetta di arancia"
+    ],
+    "procedure": "Mescolare Campari e Vermouth in un bicchiere con ghiaccio. Aggiungere soda e decorare con una fetta di arancia.",
+    "image": "assets/images/americano.png"
+  },
+  {
+    "name": "Caipirinha",
+    "categories": [
+      "Medi",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "50ml Cachaca",
+      "1 Lime tagliato a pezzi",
+      "2 Cucchiaini di zucchero"
+    ],
+    "procedure": "Pestare il lime con lo zucchero in un bicchiere basso. Aggiungere ghiaccio tritato e la cachaca. Mescolare bene.",
+    "image": "assets/images/caipirinha.png"
+  },
+  {
+    "name": "Corpse Reviver #2",
+    "categories": [
+      "Forti"
+    ],
+    "ingredients": [
+      "20ml Gin",
+      "20ml Triple Sec",
+      "20ml Lillet Blanc",
+      "20ml Succo di limone",
+      "1 Goccia di Assenzio"
+    ],
+    "procedure": "Shakerare tutti gli ingredienti con ghiaccio e filtrare in una coppetta da cocktail.",
+    "image": "assets/images/corpse_reviver_2.png"
+  },
+  {
+    "name": "Cuba Libre",
+    "categories": [
+      "Leggeri",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "50ml Rum bianco",
+      "100ml Coca-Cola",
+      "1 Spicchio di lime"
+    ],
+    "procedure": "Riempire un bicchiere alto con ghiaccio, aggiungere il rum e completare con Coca-Cola. Spremere uno spicchio di lime e lasciarlo nel bicchiere.",
+    "image": "assets/images/cuba_libre.png"
+  },
+  {
+    "name": "Tequila Sunrise",
+    "categories": [
+      "Leggeri",
+      "IBA Ufficiali"
+    ],
+    "ingredients": [
+      "50ml Tequila",
+      "100ml Succo d'arancia",
+      "10ml Sciroppo di granatina"
+    ],
+    "procedure": "Versare la tequila e il succo d'arancia in un bicchiere alto con ghiaccio. Aggiungere lentamente la granatina per creare l'effetto tramonto.",
+    "image": "assets/images/tequila_sunrise.png"
+  },
+  {
+    "name": "Greyhound",
+    "categories": [
+      "Leggeri"
+    ],
+    "ingredients": [
+      "50ml Vodka",
+      "100ml Succo di pompelmo",
+      "Ghiaccio"
+    ],
+    "procedure": "Mescolare vodka e succo di pompelmo in un bicchiere alto con ghiaccio. Decorare con una fetta di pompelmo.",
+    "image": "assets/images/greyhound.png"
+  },
+  {
+    "name": "Negroni Sbagliato",
+    "categories": [
+      "Medi"
+    ],
+    "ingredients": [
+      "30ml Campari",
+      "30ml Vermouth rosso",
+      "60ml Prosecco"
+    ],
+    "procedure": "Mescolare Campari e Vermouth in un bicchiere con ghiaccio. Aggiungere prosecco e decorare con una fetta d'arancia.",
+    "image": "assets/images/negroni_sbagliato.png"
   }
 ]
