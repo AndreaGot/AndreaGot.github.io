@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mojito",
+    "categories": ["Classic", "Refreshing"],
+    "ingredients": ["50ml White Rum", "10 Mint Leaves", "2 tsp Sugar", "Soda Water", "Lime"],
+    "procedure": "Muddle mint leaves with sugar and lime juice. Add rum and soda water. Stir gently and serve over ice.",
+    "image": "assets/images/mojito.jpg"
+  },
+  {
+    "name": "Martini",
+    "categories": ["Classic", "Elegant"],
+    "ingredients": ["60ml Gin", "1 tbsp Dry Vermouth", "Olive or Lemon Twist"],
+    "procedure": "Stir gin and vermouth with ice, strain into a chilled glass, garnish with an olive or lemon twist.",
+    "image": "assets/images/martini.jpg"
+  }
+]
