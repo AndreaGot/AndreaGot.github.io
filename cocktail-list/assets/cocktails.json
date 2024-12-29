@@ -35,6 +35,7 @@
     "ingredients": [
       "30ml Rum scuro",
       "30ml Rum chiaro",
+	  "15ml Sciroppo di cocco",
       "20ml Succo d'ananas",
       "20ml Succo d'arancia",
       "10ml Granatina"
@@ -51,9 +52,10 @@
     "ingredients": [
       "50ml Gin",
       "25ml Succo di limone fresco",
+	  "20ml Succo d'arancia",
       "20ml Miele"
     ],
-    "procedure": "Mescolare miele e succo di limone finché il miele si scioglie, quindi aggiungere il gin e shakerare con ghiaccio. Filtrare in un bicchiere da cocktail.",
+    "procedure": "Mescolare miele, succo di limone e succo d'arancia finché il miele si scioglie, quindi aggiungere il gin e shakerare con ghiaccio. Filtrare in un bicchiere da cocktail.",
     "image": "assets/images/bees_knees.png"
   },
   {
@@ -106,11 +108,11 @@
       "IBA Ufficiali"
     ],
     "ingredients": [
-      "50ml Rum scuro",
-      "25ml Succo d'ananas",
-      "15ml Campari",
-      "10ml Sciroppo di zucchero",
-      "10ml Succo di lime"
+      "45ml Rum scuro",
+      "45ml Succo d'ananas",
+      "20ml Campari",
+      "15ml Sciroppo di zucchero",
+      "15ml Succo di lime"
     ],
     "procedure": "Shakerare tutti gli ingredienti con ghiaccio e servire in un bicchiere basso con ghiaccio.",
     "image": "assets/images/jungle_bird.png"
@@ -125,7 +127,8 @@
       "15ml Gin",
       "15ml Rum bianco",
       "15ml Triple Sec",
-      "15ml Succo di limone",
+      "10ml Succo di limone",
+	  "20ml Sciroppo di zucchero",
       "Coca-Cola"
     ],
     "procedure": "Mescolare tutti gli ingredienti (eccetto la Coca-Cola) con ghiaccio, versare in un bicchiere alto e completare con Coca-Cola.",
@@ -138,11 +141,11 @@
       "IBA Ufficiali"
     ],
     "ingredients": [
-      "40ml Rum scuro",
-      "20ml Rum chiaro",
+      "30ml Rum scuro",
+      "30ml Rum chiaro",
       "15ml Orzata",
-      "10ml Triple Sec",
-      "10ml Succo di lime"
+      "15ml Orange Curacao",
+      "20ml Succo di lime"
     ],
     "procedure": "Shakerare tutti gli ingredienti con ghiaccio e servire in un bicchiere con ghiaccio, decorando con lime e menta.",
     "image": "assets/images/mai_tai.png"
@@ -154,9 +157,10 @@
       "IBA Ufficiali"
     ],
     "ingredients": [
-      "50ml Rye Whiskey",
+      "50ml Rye Whiskey (o Bourbon)",
       "20ml Vermouth rosso",
-      "2 gocce di Angostura"
+      "2 gocce di Angostura", 
+	  "(guarnizione) Ciliegia al Maraschino",
     ],
     "procedure": "Mescolare delicatamente gli ingredienti con ghiaccio e filtrare in una coppetta da cocktail, decorando con una ciliegia.",
     "image": "assets/images/manhattan.png"
@@ -170,9 +174,10 @@
     "ingredients": [
       "30ml Gin",
       "30ml Campari",
-      "30ml Vermouth rosso"
+      "30ml Vermouth rosso",
+	  "(guarnizione) Twist di Arancia",
     ],
-    "procedure": "Mescolare gli ingredienti direttamente in un bicchiere con ghiaccio e decorare con una fetta d'arancia.",
+    "procedure": "Mescolare gli ingredienti in un mixing glass per almeno 45 secondi, versare in un bicchiere con ghiaccio e decorare con una fetta d'arancia.",
     "image": "assets/images/negroni.png"
   },
   {
@@ -181,10 +186,11 @@
       "Medi"
     ],
     "ingredients": [
-      "60ml Rum scuro",
+      "60ml Rum scuro (Pusser's o altri)",
       "30ml Succo d'arancia",
-      "30ml Succo d'ananas",
-      "30ml Crema di cocco"
+      "120ml Succo d'ananas",
+      "30ml Crema di cocco", 
+	  "(guarnizione) Spolverata di noce moscata", 
     ],
     "procedure": "Mescolare tutti gli ingredienti con ghiaccio, servire in un bicchiere e decorare con noce moscata grattugiata.",
     "image": "assets/images/painkiller.png"
@@ -197,10 +203,9 @@
     ],
     "ingredients": [
       "50ml Tequila",
-      "100ml Succo di pompelmo",
+      "100ml Soda al pompelmo rosa",
       "15ml Succo di lime",
-      "Acqua frizzante",
-      "Sale"
+      "(guardnizione) Un pizzico di Sale"
     ],
     "procedure": "Mescolare gli ingredienti in un bicchiere con ghiaccio, aggiungendo il sale sul bordo del bicchiere.",
     "image": "assets/images/paloma.png"
@@ -225,8 +230,8 @@
       "Leggeri"
     ],
     "ingredients": [
-      "50ml Rum bianco",
-      "100ml Succo d'ananas",
+      "30ml Rum bianco",
+      "90ml Succo d'ananas",
       "30ml Crema di cocco"
     ],
     "procedure": "Frullare tutti gli ingredienti con ghiaccio e servire in un bicchiere decorato con ananas e ciliegia.",
@@ -240,9 +245,10 @@
     ],
     "ingredients": [
       "50ml Rum scuro",
-      "30ml Succo d'arancia",
-      "30ml Succo d'ananas",
-      "15ml Sciroppo di granatina"
+      "30ml Sciroppo di zucchero",
+	  "20 ml succo di limone",
+      "3 dash Angostura", 
+      "1tsp Sciroppo di granatina"
     ],
     "procedure": "Shakerare gli ingredienti con ghiaccio e servire in un bicchiere con ghiaccio decorato con menta e lime.",
     "image": "assets/images/planters_punch.png"
@@ -253,9 +259,9 @@
       "Leggeri"
     ],
     "ingredients": [
-      "50ml Vodka",
-      "100ml Succo di mirtillo",
-      "50ml Succo di pompelmo"
+      "40ml Vodka",
+      "120ml Succo di mirtillo",
+      "30ml Succo di pompelmo"
     ],
     "procedure": "Mescolare gli ingredienti in un bicchiere con ghiaccio e decorare con una fetta di lime.",
     "image": "assets/images/sea_breeze.png"
@@ -280,7 +286,7 @@
     ],
     "ingredients": [
       "50ml Vodka",
-      "20ml Liquore al caffè",
+      "30ml Liquore al caffè",
       "30ml Panna"
     ],
     "procedure": "Versare gli ingredienti su ghiaccio in un bicchiere e mescolare delicatamente.",
