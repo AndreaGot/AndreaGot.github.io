@@ -160,7 +160,7 @@
       "50ml Rye Whiskey (o Bourbon)",
       "20ml Vermouth rosso",
       "2 gocce di Angostura", 
-	  "(guarnizione) Ciliegia al Maraschino",
+	  "(guarnizione) Ciliegia al Maraschino"
     ],
     "procedure": "Mescolare delicatamente gli ingredienti con ghiaccio e filtrare in una coppetta da cocktail, decorando con una ciliegia.",
     "image": "assets/images/manhattan.png"
@@ -175,7 +175,7 @@
       "30ml Gin",
       "30ml Campari",
       "30ml Vermouth rosso",
-	  "(guarnizione) Twist di Arancia",
+	  "(guarnizione) Twist di Arancia"
     ],
     "procedure": "Mescolare gli ingredienti in un mixing glass per almeno 45 secondi, versare in un bicchiere con ghiaccio e decorare con una fetta d'arancia.",
     "image": "assets/images/negroni.png"
@@ -190,7 +190,7 @@
       "30ml Succo d'arancia",
       "120ml Succo d'ananas",
       "30ml Crema di cocco", 
-	  "(guarnizione) Spolverata di noce moscata", 
+	  "(guarnizione) Spolverata di noce moscata"
     ],
     "procedure": "Mescolare tutti gli ingredienti con ghiaccio, servire in un bicchiere e decorare con noce moscata grattugiata.",
     "image": "assets/images/painkiller.png"
