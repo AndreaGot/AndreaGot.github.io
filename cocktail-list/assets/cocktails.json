@@ -3,7 +3,8 @@
     "name": "Americano",
     "categories": [
       "Medi",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "30ml Campari",
@@ -17,7 +18,8 @@
   {
     "name": "Bahama Mama",
     "categories": [
-      "Leggeri"
+      "Leggeri",
+      "Dolci"
     ],
     "ingredients": [
       "30ml Rum scuro",
@@ -34,7 +36,8 @@
     "name": "Bee's Knees",
     "categories": [
       "Medi",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Dolci"
     ],
     "ingredients": [
       "50ml Gin",
@@ -49,7 +52,8 @@
     "name": "Caipirinha",
     "categories": [
       "Medi",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "50ml Cachaca",
@@ -79,7 +83,8 @@
   {
     "name": "Canchanchara",
     "categories": [
-      "Medi"
+      "Medi",
+      "Dolci"
     ],
     "ingredients": [
       "50ml Rum cubano",
@@ -93,7 +98,8 @@
   {
     "name": "Corpse Reviver #2",
     "categories": [
-      "Forti"
+      "Forti",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "20ml Gin",
@@ -109,7 +115,8 @@
     "name": "Cuba Libre",
     "categories": [
       "Leggeri",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Morbidi"
     ],
     "ingredients": [
       "50ml Rum bianco",
@@ -123,7 +130,8 @@
     "name": "Daiquiri",
     "categories": [
       "Medi",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "50ml Rum bianco",
@@ -137,7 +145,8 @@
     "name": "Gin Tonic",
     "categories": [
       "Leggeri",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "50ml Gin",
@@ -151,7 +160,8 @@
   {
     "name": "Greyhound",
     "categories": [
-      "Leggeri"
+      "Leggeri",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "50ml Vodka",
@@ -164,7 +174,8 @@
   {
     "name": "Hugo",
     "categories": [
-      "Leggeri"
+      "Leggeri",
+      "Morbidi"
     ],
     "ingredients": [
       "150ml Prosecco",
@@ -180,7 +191,8 @@
     "name": "Jungle Bird",
     "categories": [
       "Medi",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "45ml Rum scuro",
@@ -195,7 +207,8 @@
   {
     "name": "Long Island Iced Tea",
     "categories": [
-      "Forti"
+      "Forti",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "15ml Vodka",
@@ -213,7 +226,8 @@
     "name": "Mai Tai",
     "categories": [
       "Forti",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "30ml Rum scuro",
@@ -229,7 +243,8 @@
     "name": "Manhattan",
     "categories": [
       "Forti",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "50ml Rye Whiskey (o Bourbon)",
@@ -243,7 +258,8 @@
   {
     "name": "Martini",
     "categories": [
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "60ml Gin",
@@ -256,7 +272,8 @@
   {
     "name": "Mojito",
     "categories": [
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Morbidi"
     ],
     "ingredients": [
       "50ml White Rum",
@@ -272,7 +289,8 @@
     "name": "Negroni",
     "categories": [
       "Forti",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "30ml Gin",
@@ -286,7 +304,8 @@
   {
     "name": "Negroni Sbagliato",
     "categories": [
-      "Medi"
+      "Medi",
+      "Morbidi"
     ],
     "ingredients": [
       "30ml Campari",
@@ -299,7 +318,8 @@
   {
     "name": "Painkiller",
     "categories": [
-      "Medi"
+      "Medi",
+      "Dolci"
     ],
     "ingredients": [
       "60ml Rum scuro (Pusser's o altri)",
@@ -315,7 +335,8 @@
     "name": "Paloma",
     "categories": [
       "Leggeri",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "50ml Tequila",
@@ -330,7 +351,8 @@
     "name": "Paradise",
     "categories": [
       "Medi",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Dolci"
     ],
     "ingredients": [
       "35ml Gin",
@@ -343,7 +365,8 @@
   {
     "name": "Pink Daiquiri",
     "categories": [
-      "Medi"
+      "Medi",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "60ml Rum bianco",
@@ -358,7 +381,8 @@
   {
     "name": "Pina Colada",
     "categories": [
-      "Leggeri"
+      "Leggeri",
+      "Dolci"
     ],
     "ingredients": [
       "30ml Rum bianco",
@@ -372,7 +396,8 @@
     "name": "Planter's Punch",
     "categories": [
       "Medi",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Dolci"
     ],
     "ingredients": [
       "50ml Rum scuro",
@@ -387,7 +412,8 @@
   {
     "name": "Prestige",
     "categories": [
-      "Medi"
+      "Medi",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "60ml Rum scuro",
@@ -399,10 +425,11 @@
     "procedure": "Shakerare tutti gli ingredienti, filtrare in un bicchiere pieno di ghiaccio.",
     "image": "assets/images/prestige.png"
   },
-  {
+   {
     "name": "Sea Breeze",
     "categories": [
-      "Leggeri"
+      "Leggeri",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "40ml Vodka",
@@ -415,7 +442,8 @@
   {
     "name": "Spritz",
     "categories": [
-      "Leggeri"
+      "Leggeri",
+      "Morbidi"
     ],
     "ingredients": [
       "90ml Prosecco",
@@ -429,7 +457,8 @@
     "name": "Tequila Sunrise",
     "categories": [
       "Leggeri",
-      "IBA Ufficiali"
+      "IBA Ufficiali",
+      "Dolci"
     ],
     "ingredients": [
       "50ml Tequila",
@@ -442,7 +471,8 @@
   {
     "name": "Well Oiled Mai Tai",
     "categories": [
-      "Forti"
+      "Forti",
+      "Secchi/Sour"
     ],
     "ingredients": [
       "30ml Rum scuro",
@@ -458,7 +488,8 @@
   {
     "name": "White Russian",
     "categories": [
-      "Medi"
+      "Medi",
+      "Dolci"
     ],
     "ingredients": [
       "50ml Vodka",
