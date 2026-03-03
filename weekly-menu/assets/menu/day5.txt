@@ -1,0 +1,24 @@
+# Penne e cavolfiore + frittata zucchine — Cena manzo e insalata di patate
+OlioEVO=30g
+
+[Colazione]
+- Latte P.S. (200g) + Miele (10g) + Corn flakes (40g) + Caffè
+
+[Spuntino]
+- Banane (120g)
+
+[Pranzo]
+- Insalata finocchi: Finocchi (130g) + Olive verdi (15g) + Lattuga (40g) + Olio EVO (*)
+- Primo e secondo: Penne (100g) con Cavolfiore (200g) + Aglio + Olio EVO (*)
+- Frittata: Uovo (70g) + Zucchine (70g) + Parmigiano (5g)
+- Mandaranci (100g)
+- Acqua (400g)
+
+[Spuntino Pomeriggio]
+- Fette biscottate (35g)
+
+[Cena]
+- Insalata di patate: Patate (165g) + Carote (65g) + Olio EVO (*)
+- Filetto di manzo (125g)
+- Pane (60g)
+- Acqua (400g)

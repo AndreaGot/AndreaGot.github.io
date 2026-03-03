@@ -1,0 +1,24 @@
+# Risotto allo zafferano + brasato — Serata pizza margherita
+OlioEVO=20g
+
+[Colazione]
+- Latte P.S. (150g) + Miele (10g) + Caffè
+- Pane integr. (40g) + Marmellata (10g)
+
+[Spuntino]
+- Fragole (150g)
+
+[Pranzo]
+- Risotto zafferano: Riso (60g) + Brodo (150g) + Zafferano + Cipolla + Olio EVO (*)
+- Brasato e contorno: Manzo (150g) + Patate (75g) + Pelati (180g) + Carote (30g) + Olio EVO (*)
+- Insalata pomodori (150g)
+- Mele (200g)
+- Acqua (400g)
+
+[Spuntino Pomeriggio]
+- Arance (200g)
+
+[Cena]
+- Serata Pizza: Pizza Margherita (250g)
+- Birra chiara (330g)
+- Acqua (400g)

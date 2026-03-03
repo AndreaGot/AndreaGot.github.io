@@ -1,0 +1,37 @@
+[
+  {
+    "id": "day1",
+    "label": "Giorno 1",
+    "file": "day1.txt"
+  },
+  {
+    "id": "day2",
+    "label": "Giorno 2",
+    "file": "day2.txt"
+  },
+  {
+    "id": "day3",
+    "label": "Giorno 3",
+    "file": "day3.txt"
+  },
+  {
+    "id": "day4",
+    "label": "Giorno 4",
+    "file": "day4.txt"
+  },
+  {
+    "id": "day5",
+    "label": "Giorno 5",
+    "file": "day5.txt"
+  },
+  {
+    "id": "day6",
+    "label": "Giorno 6",
+    "file": "day6.txt"
+  },
+  {
+    "id": "day7",
+    "label": "Giorno 7",
+    "file": "day7.txt"
+  }
+]

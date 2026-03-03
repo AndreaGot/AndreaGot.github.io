@@ -1,0 +1,26 @@
+# Spaghetti alle olive & Pollo ai ferri — Cena piselli e carote con certosa
+OlioEVO=25g
+
+[Colazione]
+- Latte P.S. (200g) + Miele (10g) + Caffè
+- Pane integr. (50g) + Marmellata (10g)
+
+[Spuntino]
+- Mele (200g)
+
+[Pranzo]
+- Spaghetti olive: Pasta (80g) + Pelati (65g) + Olive verdi (10g) + Carote (10g) + Cipolle + Olio EVO (*)
+- Secondo e contorno: Pollo ai ferri (150g) + Olio EVO (*)
+- Carote julienne (130g)
+- Pere (150g)
+- Acqua (400g)
+
+[Spuntino Pomeriggio]
+- Mandarini (150g)
+- Yogurt P.S. bianco (125g)
+
+[Cena]
+- Piselli e carote: Piselli (120g) + Carote (120g) + Cipolle + Shoyu (5g) + Olio EVO (*)
+- Certosa (100g)
+- Pane (50g)
+- Acqua (400g)

@@ -1,0 +1,27 @@
+# Vitello alla menta & Pasta mediterranea — Cena con frittata e pomodori gratè
+OlioEVO=30g
+
+[Colazione]
+- Latte P.S. (200g) + Miele (10g) + Caffè
+- Pane integrale (50g) + Marmellata (10g)
+
+[Spuntino]
+- Banane (180g)
+
+[Pranzo]
+- Cicoria (130g) + Olio EVO (*)
+- Vitello magro (110g) + Menta + Olio EVO (*)
+- Pasta (80g) + Pomodori (65g) + Olive nere (15g) + Prezzemolo + Olio EVO (*)
+- Clementine (100g)
+- Acqua (400g)
+
+[Spuntino Pomeriggio]
+- Pere (160g)
+- Yogurt P.S. bianco (125g)
+
+[Cena]
+- Brodo vegetale: Carote (150g) + Sedano (120g) + Pomodori (105g) + Zucchine (120g) + Cipolle (75g) + Acqua (300g)
+- Frittata: Uovo intero (120g) + Parmigiano (10g) + Olio EVO (*)
+- Pomodori gratè (170g) con pangrattato (15g) + Olio EVO (*)
+- Pane (60g)
+- Acqua (400g)

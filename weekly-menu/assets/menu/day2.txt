@@ -1,0 +1,23 @@
+# Pasta e fagioli & Tacchino con insalatona — Cena sogliola pizzaiola
+OlioEVO=35g
+
+[Colazione]
+- Latte P.S. (200g) + Miele (10g) + Corn flakes (40g) + Caffè
+
+[Spuntino]
+- Ananas al naturale (200g)
+
+[Pranzo]
+- Pasta e fagioli: Pasta (50g) + Fagioli borlotti (40g) + Olio EVO (*)
+- Tacchino e insalatona: Tacchino (85g) + Peperoni (110g) + Cipolle (35g) + Pomodori (45g) + Rucola (20g) + Olio EVO (*)
+- Pere (125g)
+- Acqua (400g)
+
+[Spuntino Pomeriggio]
+- Yogurt alla frutta (125g)
+
+[Cena]
+- Sogliola pizzaiola: Sogliola (150g) + Pomodori (45g) + Aglio + Origano + Olio EVO (*)
+- Patate lessate (200g)
+- Pane (70g)
+- Acqua (400g)

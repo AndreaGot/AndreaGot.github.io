@@ -1,0 +1,23 @@
+# Farfalle al pomodoro con mozzarella — Cena fesa di maiale e tris di verdure
+OlioEVO=25g
+
+[Colazione]
+- Latte P.S. (200g) + Miele (10g) + Corn flakes (40g) + Caffè
+
+[Spuntino]
+- Banane (180g)
+
+[Pranzo]
+- Insalata pomodori: Pomodori (130g) + Rucola (50g) + Olio EVO (*)
+- Primo e secondo: Mozzarella (120g) + Farfalle (100g) con Pelati (120g) + Parmigiano (10g) + Basilico + Olio EVO (*)
+- Acqua (400g)
+
+[Spuntino Pomeriggio]
+- Clementine (110g)
+- Fette biscottate (25g)
+
+[Cena]
+- Tris di verdure: Carote (120g) + Zucchine (120g) + Patate (120g) + Olio EVO (*)
+- Fesa di maiale (150g) + Olio EVO (*)
+- Pane (60g)
+- Acqua (400g)

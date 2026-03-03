@@ -1,0 +1,26 @@
+# Riso e lenticchie + pesce spada — Cena zuppa di verdure e vitello con patate al forno
+OlioEVO=40g
+
+[Colazione]
+- Latte P.S. (200g) + Miele (10g) + Corn flakes (40g) + Caffè
+
+[Spuntino]
+- Banane (150g)
+
+[Pranzo]
+- Riso e lenticchie: Riso (80g) + Lenticchie secche (25g) + Carote (50g) + Pomodori (65g) + Olio EVO (*)
+- Pesce e contorno: Pesce spada (150g) + Limone
+- Insalata pomodori e lattuga (150g) + Olio EVO (*)
+- Mele (150g)
+- Acqua (400g)
+
+[Spuntino Pomeriggio]
+- Arance (150g)
+- Biscotti secchi (20g)
+
+[Cena]
+- Zuppa di verdura: Patate (140g) + Carote (70g) + Zucchine (70g) + Fagiolini (55g) + Zucca (30g) + Parmigiano (15g) + Olio EVO (*)
+- Secondo e contorno: Paillard di vitello (100g)
+- Patate al forno (220g) + Olio EVO (*)
+- Pane (55g)
+- Acqua (400g)
